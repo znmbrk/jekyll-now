@@ -17,6 +17,13 @@ html {
   font-size: 100%;
 }
 
+p {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
 table {
     border-collapse: collapse;
 }
@@ -26,7 +33,7 @@ table, th, td {
 }
 
 body {
-	background: #6699ff;
+	background: #80aaff;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
